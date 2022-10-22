@@ -1,22 +1,22 @@
-title: Welcome to Flexton
-description: Flexton is a responsive and ultra-minimal theme for Jekyll.
+title: Welcome Yun's Blog
+description: Beginner Front-end developer welcome my blod.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "pangkurr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
+author-name:    윤 정 효
 author-image:   1.jpg
-author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
+author-job:     FE - Web Developer
+author-email:   hyo28456@naver.com # Add your email for contant form.
+author-twitter: PalKong22 # Add your twitter account
 about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
 
 # Social settings
-social-twitter:   artemsheludko_
+social-twitter:   PalKong22
 social-facebook:
-social-github:    artemsheludko
-social-pinterest: artemsheludko
-social-instagram: artemsheludko_
+social-github:    pangkurr
+social-pinterest: 
+social-instagram: 
 social-youtube:
 social-vk:   
 social-linkedin:
@@ -36,7 +36,7 @@ permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-paginate
 
-paginate: 7
+paginate: 5
 paginate_path: "/page/:num/"
 
 include:
