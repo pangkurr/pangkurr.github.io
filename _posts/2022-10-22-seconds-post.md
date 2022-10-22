@@ -1,3 +1,12 @@
+---
+layout: post
+title: notion post 1
+image: 
+date: 2022-10-22 p.m 3:46
+tags: noition
+categories: test
+---
+
 # Git 특징 및 설치, 환경설정
 
 ### GIT 기능(특징)
@@ -66,13 +75,3 @@ git config --global core.quotepath false
 //현상이 일어난다면 그때 적용)
 git config --global core.precomposeunicode true
 ```
-//이름설정
-git config --global user.name "Your Name"
-// 이메일 설정 (유출되도 상관없는 이메일(공적인 이메일 등)
-git config --global user.email "you@your-email.com"
-// 한글 출력 오류 방지
-git config --global core.quotepath false
-
-// 자모 분리 현상 방지 macOS 유저만, (혹시나 windows에서도 
-//현상이 일어난다면 그때 적용)
-git config --global core.precomposeunicode true
